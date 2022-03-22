@@ -1,8 +1,7 @@
 
 
-this is the start of my book
-
-Page 1 will help us get started
-
-Java is coll
+this is the start of my book.
+Page 1 will help us get started.
+Java is coll!
 Alex Turuk is my husband forever
+
